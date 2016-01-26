@@ -1,5 +1,6 @@
 body
 {
+
     background-color: indianred;
     width:970px;
     margin:0 auto;
@@ -7,4 +8,11 @@ body
 h1
 {
     font-size: 32px;
+
+    background-color: maroon;
+}
+h1
+{
+    font-family: Vivaldi, Tahoma;
+
 }
